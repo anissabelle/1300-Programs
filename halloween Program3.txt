@@ -1,0 +1,12 @@
+Guest List:
+	Jack Black
+	Adam Sandler
+	Joe Rogan
+Planned Activities:
+	Bear Wrestling
+	Corn Hole
+Food:
+	Witch Finger Cookies: 7
+	Zombie Meatloaf: 6
+	Eyeball Punch: 12
+	Spider Web Cupcakes: 15
