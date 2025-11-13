@@ -1,4 +1,0 @@
-Dog:Jack
-Cat:Loki
-Rat:Reuben
-Pig:Wilber
